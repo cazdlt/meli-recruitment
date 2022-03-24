@@ -3,3 +3,4 @@ requests
 pandas
 spacy
 scikit-learn
+xlrd
